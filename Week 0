@@ -1,0 +1,17 @@
+### Icarus Verilog (iverilog) Installation
+
+Icarus Verilog is an open-source Verilog compiler and simulator. It was installed on the system using the `apt` package manager.
+
+**Command Used:**
+```bash
+sudo apt-get install iverilog
+***
+### ## What to Do
+
+1.  **Copy** the corrected code block from above.
+2.  **Go back to the GitHub editor** you have open.
+3.  **Delete all the text** you currently have in the editor box.
+4.  **Paste** the new, corrected code.
+5.  Click the green **"Commit changes"** button.
+
+After you save, it will look perfect, with the command inside a black box just like you wanted.

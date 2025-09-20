@@ -3,7 +3,7 @@
 <details>
   <summary>► Week 0 - Tools Installation</summary>
   
-  This section documents the setup of the essential open-source EDA toolchain.
+  
   
   ---
   
